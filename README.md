@@ -59,8 +59,8 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/gloria1798/Awesome_WebscrapingCode /">
-  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gloria1798&repo=Awesome_WebscrapingCode &title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/gloria1798/Awesome_WebscrapingCode/">
+  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gloria1798&repo=Awesome_WebscrapingCode&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 </p>
 
